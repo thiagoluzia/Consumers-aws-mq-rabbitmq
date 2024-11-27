@@ -1,5 +1,5 @@
 
-# RabbitMQ Consumer Example
+# RabbitMQ Consumer Example 
 
 Este repositório demonstra como criar um consumidor simples usando RabbitMQ em .NET. O exemplo implementa um processo para conectar-se ao RabbitMQ, consumir mensagens de uma fila e desserializar os dados recebidos em um objeto.
 
@@ -138,6 +138,3 @@ public class Aluno
 
 ---
 
-## Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
