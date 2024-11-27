@@ -21,6 +21,13 @@ Este repositório demonstra como criar um consumidor simples usando RabbitMQ em 
 
 ---
 
+## Documentação Completa
+
+Para mais detalhes sobre RabbitMQ com C#, confira o PDF:
+[📄 RabbitMQ com C# - Documentação Completa](RabbitMQ_com_CSharp.pdf)
+
+---
+
 ## Estrutura do Projeto
 
 - `Program`: Classe principal que implementa o consumidor.
@@ -131,24 +138,6 @@ public class Aluno
 
 ---
 
-## TODO List
+## Licença
 
-- [ ] Adicionar reconexão automática em caso de falhas na conexão com RabbitMQ.
-- [ ] Implementar lógica de tratamento de mensagens com `autoAck` desativado.
-- [ ] Adicionar suporte a filas duráveis.
-
----
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para isso:
-
-1. Faça um fork do repositório.
-2. Crie uma nova branch com a feature:
-   ```bash
-   git checkout -b feature/nova-funcionalidade
-   ```
-3. Envie um Pull Request.
-
----
-
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
